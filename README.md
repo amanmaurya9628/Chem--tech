@@ -1,10 +1,10 @@
 ## Introduction
 
 
-<b>Discipline | <b>chemical engineering
+<b>Discipline | <b>Chemical engineering
 :--|:--|
-<b> Lab | <b> chemistry lab
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Chemistry lab
+<b> Experiment|     <b> Determination of cell conductance of a solution
 
 ### About the Experiment 
 
