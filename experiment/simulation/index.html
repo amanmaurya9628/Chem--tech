@@ -1,34 +1,47 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-	<meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Cell Conductance Simulator</title>
- 
-	<!-- Add CSS at the head of HTML file -->
-    <link rel="stylesheet" href="./css/main.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cell Conductance Real-Life Simulator</title>
+
+  <!-- Add CSS at the head of HTML file -->
+  <link rel="stylesheet" href="./css/main.css">
 </head>
+
 <body>
-		<!-- Your code goes here-->
-	 <div class="container">
-    <h1>Cell Conductance Simulator</h1>
-
-    <label for="voltage">Voltage (V):</label>
-    <input type="number" id="voltage" step="any" placeholder="Enter voltage in volts" />
-
-    <label for="current">Current (I in A):</label>
-    <input type="number" id="current" step="any" placeholder="Enter current in amperes" />
-
-    <button onclick="calculateConductance()">Calculate</button>
-
-    <p id="result">Conductance: N/A</p>
-
-    <canvas id="conductanceChart"></canvas>
+  <!-- Your code goes here-->
+  <h1>🔬 Cell Conductance Experiment (G = I / V)</h1>
+  <p>Click on the chart below to select Voltage (x-axis) and Current (y-axis)</p>
+  <canvas id="inputChart"></canvas>
+  <div class="lab-container">
+    <div class="beaker">
+      <div class="hand" id="hand-current"></div>
+      <div class="liquid current" id="liquid-current" style="height: 0%;"></div>
+      <label>Current (A)</label>
+      <div id="input-current-display">0</div>
+    </div>
+    <div class="beaker">
+      <div class="hand" id="hand-voltage"></div>
+      <div class="liquid voltage" id="liquid-voltage" style="height: 0%;"></div>
+      <label>Voltage (V)</label>
+      <div id="input-voltage-display">0</div>
+    </div>
+    <div class="beaker">
+      <div class="liquid conductance" id="liquid-conductance" style="height: 0%;"></div>
+      <div class="value-display" id="result-G">G: 0 S</div>
+    </div>
   </div>
+
+  <button class="simulate-btn" id="simulateBtn">Simulate</button>
+  <canvas id="conductanceChart"></canvas>
+
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
-	<!-- Add JS at the bottom of HTML file --> 
-        <script src="./js/main.js"></script>
+  <!-- Add JS at the bottom of HTML file -->
+  <script src="./js/main.js"></script>
 </body>
+
 </html>

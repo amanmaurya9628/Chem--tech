@@ -1,58 +1,89 @@
-/* You CSS goes in here */
-    body {
-      font-family: Arial, sans-serif;
-      background: #f4f4f4;
-      padding: 20px;
-    }
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f8ff;
+  padding: 2rem;
+  text-align: center;
+}
+h1 {
+  color: #2c3e50;
+}
+.lab-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+.beaker {
+  width: 120px;
+  height: 250px;
+  background: #ecf0f1;
+  border-radius: 10px 10px 0 0;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  position: relative;
+  overflow: hidden;
+}
+.liquid {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  transition: height 1s ease-in-out;
+}
+.current {
+  background: linear-gradient(to top, #4da6ff, #b3e0ff);
+}
+.voltage {
+  background: linear-gradient(to top, #ffb84d, #ffe0b3);
+}
+.conductance {
+  background: linear-gradient(to top, #66cc66, #ccffcc);
+}
 
-    .container {
-      max-width: 600px;
-      margin: auto;
-      background: #fff;
-      padding: 30px;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-
-    h1 {
-      text-align: center;
-      color: #333;
-    }
-
-    label {
-      display: block;
-      margin-top: 15px;
-      font-weight: bold;
-    }
-
-    input {
-      width: 100%;
-      padding: 8px;
-      margin-top: 5px;
-    }
-
-    button {
-      margin-top: 20px;
-      width: 100%;
-      padding: 10px;
-      background: #007BFF;
-      color: white;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-    }
-
-    button:hover {
-      background: #0056b3;
-    }
-
-    #result {
-      margin-top: 20px;
-      font-size: 18px;
-      text-align: center;
-    }
-
-    canvas {
-      margin-top: 20px;
-      max-width: 100%;
-    }
+.simulate-btn {
+  padding: 0.6rem 1.5rem;
+  margin-top: 2rem;
+  background: #2ecc71;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.simulate-btn:disabled {
+  background: #95a5a6;
+}
+.value-display {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #27ae60;
+  margin-top: 1rem;
+  background: #fff;
+  padding: 0.5rem;
+  border-radius: 8px;
+}
+.hand {
+  width: 50px;
+  height: 50px;
+  background: url("https://i.imgur.com/K3rI0vS.png") no-repeat center;
+  background-size: contain;
+  position: absolute;
+  top: -60px;
+  left: 35px;
+  animation: pour 2s ease-in-out forwards;
+  display: none;
+}
+@keyframes pour {
+  0% {
+    top: -60px;
+  }
+  50% {
+    top: -10px;
+  }
+  100% {
+    top: -60px;
+  }
+}
+canvas {
+  margin-top: 2rem;
+  max-width: 600px;
+}
