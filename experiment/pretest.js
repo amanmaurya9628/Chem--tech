@@ -111,24 +111,33 @@
       correctAnswer: "c"                ///// Write the correct option inside double quotes
     },     
     {
-      question: "3. किसी भी घोल का विशिष्ट घूर्णन किस पर निर्भर करता है:",  ///// Write the question inside double quotes
-       answers: {
-         a: "सांद्रता",                  ///// Write the option 1 inside double quotes
-         b: "नलिका की लंबाई",                  ///// Write the option 2 inside double quotes
-         c: "तापमान",                  ///// Write the option 3 inside double quotes
-         d: "इनमें से कोई नहीं"                   ///// Write the option 4 inside double quotes
-       },
-       correctAnswer: "c"                ///// Write the correct option inside double quotes
-     }, 
-     {
-      question: "4. Cell constant is defined as:",  ///// Write the question inside double quotes
+      question: "3.Cell constant is defined as:",  ///// Write the question inside double quotes
        answers: {
          a: "Resistance × Conductivity",                  ///// Write the option 1 inside double quotes
          b: "Conductivity × Distance between electrodes",                  ///// Write the option 2 inside double quotes
          c: "Distance between electrodes / Area of cross-section",                  ///// Write the option 3 inside double quotes
-         d: "इनमें से कोई नहीं"                   ///// Write the option 4 inside double quotes
+         d: "None of the above"                   ///// Write the option 4 inside double quotes
        },
        correctAnswer: "c"                ///// Write the correct option inside double quotes
+     }, 
+     {
+      question: "4. Which instrument is commonly used to measure conductance",  ///// Write the question inside double quotes
+       answers: {
+         a: "Ammeter",                  ///// Write the option 1 inside double quotes
+         b: "Voltmete",                  ///// Write the option 2 inside double quotes
+         c: "Conductometer",                  ///// Write the option 3 inside double quotes
+         d: "Potentiometer"                   ///// Write the option 4 inside double quotes
+       },
+       correctAnswer: "c"    
+         {
+      question: "4.  What is the relationship between resistance (R) and conductance (G)",  ///// Write the question inside double quotes
+       answers: {
+         a: "G = R",                  ///// Write the option 1 inside double quotes
+         b: "G = 1/R",                  ///// Write the option 2 inside double quotes
+         c: " G = R²",                  ///// Write the option 3 inside double quotes
+         d: "G = R × V"                   ///// Write the option 4 inside double quotes
+       },
+       correctAnswer: "b"    ///// Write the correct option inside double quotes
      },                              ///// To add more questions, copy the section below 
     									                  ///// this line
 
