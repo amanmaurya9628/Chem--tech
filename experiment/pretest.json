@@ -2,29 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is the function of dilute sulfuric acid in the reaction?",
+      "question": "Which of the following best defines conductance?",
       "answers": {
-        "a": "Acts as a solvent",
-        "b": "Maintains an acidic medium",
-        "c": "Neutralizes adipic acid",
-        "d": "Reacts with KMnO₄"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": " During the reaction, KMnO₄ is reduced to?",
-      "answers": {
-        "a": "Mn",
-        "b": " Mn²⁺",
-        "c": " MnO₂",
-        "d": " MnSO₄"
+        "a": "Resistance to the flow of current",
+        "b": "Ability of a substance to produce heat",
+        "c": "Ease with which electric current flows through a substance",
+        "d": "None of the above₄"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +16,75 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The SI unit of conductance is:",
+      "answers": {
+        "a": " Ohm",
+        "b": "Volt",
+        "c": "Siemens",
+        "d": "Ampere"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+     {
+      "question": ":Cell constant is defined as:",
+      "answers": {
+        "a": "Resistance × Conductivity",
+        "b": "Conductivity × Distance between electrodes",
+        "c": "Distance between electrodes / Area of cross-section",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>"
+
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+     {
+      "question": "Which instrument is commonly used to measure conductance?:",
+      "answers": {
+        "a": "Ammeter",
+        "b": "Voltmeter",
+        "c": " Conductometer",
+        "d": "Potentiometer"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+     {
+      "question": " What is the relationship between resistance (R) and conductance (G)?:",
+      "answers": {
+        "a": " G = R",
+        "b": "G = 1/R",
+        "c": " G = R²",
+        "d": "G = R × V"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
