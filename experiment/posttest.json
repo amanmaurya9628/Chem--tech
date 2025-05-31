@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": " Which starting compound is commonly used in the laboratory synthesis of adipic acid?",
+      "question": "What is the effect of increasing temperature on the conductance of electrolytes?",
       "answers": {
-        "a": "Benzene",
-        "b": "Cyclohexanol",
-        "c": "Acetic acid",
-        "d": "Toluene"
+        "a": "Decreases conductance",
+        "b": "Increases conductance",
+        "c": "No effect",
+        "d": "Conductance becomes zero"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,9 +19,9 @@
       "difficulty": "beginner"
     },
     {
-      "question": " What is the role of potassium permanganate (KMnO₄) in the preparation of adipic acid?",
+      "question": " Which solution would be best for calibrating a conductivity cell?",
       "answers": {
-        "a": "Dehydrating agent",
+        "a": "Tap water",
         "b": " Catalyst",
         "c": "Oxidizing agent",
         "d": "Reducing agent"
