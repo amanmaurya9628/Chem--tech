@@ -3,7 +3,7 @@ EMPTY
 ### Subject Matter Experts
 | SNo. | Name | Email | Institute | ID |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 |DR RAVISH SINGH RAJPUT |  | RAJKIYA ENGINEERING COLLEGE KANNAUG | id |
+| 1 |DR RAVISH SINGH RAJPUT | ravishrajput@reck.ac.in | RAJKIYA ENGINEERING COLLEGE KANNAUG | id |
 
 ### Developers
 | SNo. | Name | Email | Institute | ID |
