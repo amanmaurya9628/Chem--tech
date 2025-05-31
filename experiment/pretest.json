@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the function of dilute sulfuric acid in the reaction?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Acts as a solvent",
+        "b": "Maintains an acidic medium",
+        "c": "Neutralizes adipic acid",
+        "d": "Reacts with KMnO₄"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": " During the reaction, KMnO₄ is reduced to?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Mn",
+        "b": " Mn²⁺",
+        "c": " MnO₂",
+        "d": " MnSO₄"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
