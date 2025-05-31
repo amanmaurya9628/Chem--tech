@@ -2,16 +2,16 @@
 
    "details": [
        {
-			"Experiment": "Voltage Distribution Across String Insulators",     
-			"Lab": "Power System Lab",               
-			"Discipline": "Electronics Engineering",				 
+			"Experiment": "DETERMINATION OF CELL CONDUCTANCE OF A SOLUTION",     
+			"Lab": "CHEMISTRY Lab",               
+			"Discipline": "CHEMICAL Engineering",				 
 			"Technology": "HTML CSS Javascript"         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "Mr. Rajeev Baghel",         
+      "Developer": "DR.RAVISH SINGH RAJPUT",         
       "Institute": "REC Kannauj",         
       "InstituteAcronym": "RECK"   
        }
@@ -19,33 +19,28 @@
 
    "contributer": [
        {       
-			"Contributer": "Ridam Sharma",             
+			"Contributer": "SHASHANK SHARMA",             
       "Institute": "REC Kannauj",               
 			"InstituteAcronym": "RECK"         
        },
 
        {       
-			"Contributer": "Dhananjay Singh Gaur",              
+			"Contributer": "VAIBHAV SINGH",              
       "Institute": "REC Kannauj",               
 			"InstituteAcronym": "RECK"         
        },
 
        {       
-			"Contributer": "Ichha Shukla",             
+			"Contributer": "AMAN KUMAR MAURYA",             
       "Institute": "REC Kannauj",               
 			"InstituteAcronym": "RECK"         
        },
 
        {       
-			"Contributer": "Satish Kumar",              
+			"Contributer": "BHAVYA VISHWAKARMA",              
       "Institute": "REC Kannauj",               
 			"InstituteAcronym": "RECK"         
        },
-       {       
-			"Contributer": "Shaili Chauhan",              
-      "Institute": "REC Kannauj",               
-			"InstituteAcronym": "RECK"         
-       }
    ]
 
 }
