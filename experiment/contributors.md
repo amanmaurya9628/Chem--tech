@@ -8,7 +8,7 @@ EMPTY
 ### Developers
 | SNo. | Name | Email | Institute | ID |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 |SHASHANK SHARMA| shashankpbt@gmail.com | RAJKIYA ENGINEERING COLLEGE KANNAUG | id |
-| 1 |VAIBHAV SINGH|singhvs049@gmail.com| RAJKIYA ENGINEERING COLLEGE KANNAUG | id |
-| 1 |BHAVYA VISHWAKARMA| bhavyarock2005@gmail.com | RAJKIYA ENGINEERING COLLEGE KANNAUG | id |
-| 1 |AMAN KUMAR MAURYA| amanmauryamk9628@gmail.com | RAJKIYA ENGINEERING COLLEGE KANNAUG | id |
+|1|SHASHANK SHARMA| shashankpbt@gmail.com | RAJKIYA ENGINEERING COLLEGE KANNAUG | id |
+|2|VAIBHAV SINGH|singhvs049@gmail.com| RAJKIYA ENGINEERING COLLEGE KANNAUG | id |
+|3|BHAVYA VISHWAKARMA| bhavyarock2005@gmail.com | RAJKIYA ENGINEERING COLLEGE KANNAUG | id |
+|4|AMAN KUMAR MAURYA| amanmauryamk9628@gmail.com | RAJKIYA ENGINEERING COLLEGE KANNAUG | id |
