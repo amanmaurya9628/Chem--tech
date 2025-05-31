@@ -90,25 +90,25 @@
 
   const myQuestions = [
     {
-      question: "1. जिस सिद्धांत पर विशिष्ट घूर्णन के प्रयोग का आधार है वह है:",  ///// Write the question inside double quotes
+      question: "1.Which of the following best defines conductance? ",  ///// Write the question inside double quotes
       answers: {
-        a: "ध्रुवीकृत प्रकाश ऑप्टिकली सक्रिय माध्यम से गुजरते समय दो घटकों में विभाजित हो जाता है",                  ///// Write the option 1 inside double quotes
-        b: "ध्रुवीकृत प्रकाश ऑप्टिकली सक्रिय माध्यम से गुजरते समय घुमता है",                  ///// Write the option 2 inside double quotes
-        c: "ध्रुवीकृत प्रकाश पानी से गुजरते समय विचलित हो जाता है",                  ///// Write the option 3 inside double quotes
-        d: "इनमें से कोई नहीं"                   ///// Write the option 4 inside double quotes
+        a: "Resistance to the flow of current",                  ///// Write the option 1 inside double quotes
+        b: "Ability of a substance to produce heat",                  ///// Write the option 2 inside double quotes
+        c: "Ease with which electric current flows through a substance",                  ///// Write the option 3 inside double quotes
+        d: "None of the above"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "2. शुगर घोल की सांद्रता बढ़ाने पर ध्रुवीकृत प्रकाश का घुमाव कोण:",  ///// Write the question inside double quotes
+     question: "2. The SI unit of conductance is:",  ///// Write the question inside double quotes
       answers: {
-        a: "बढ़ता है",                  ///// Write the option 1 inside double quotes
-        b: " घटता है",                  ///// Write the option 2 inside double quotes
-        c: "अपरिवर्तित रहता है",                  ///// Write the option 3 inside double quotes
-        d: "इनमें से कोई नहीं"                   ///// Write the option 4 inside double quotes
+        a: "Ohm",                  ///// Write the option 1 inside double quotes
+        b: " Volt",                  ///// Write the option 2 inside double quotes
+        c: "Siemens",                  ///// Write the option 3 inside double quotes
+        d: "Ampere"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },     
     {
       question: "3. किसी भी घोल का विशिष्ट घूर्णन किस पर निर्भर करता है:",  ///// Write the question inside double quotes
@@ -121,11 +121,11 @@
        correctAnswer: "c"                ///// Write the correct option inside double quotes
      }, 
      {
-      question: "4. यदि नलिका की लंबाई बढ़ाई जाए तो किसी भी घोल का विशिष्ट घूर्णन:",  ///// Write the question inside double quotes
+      question: "4. Cell constant is defined as:",  ///// Write the question inside double quotes
        answers: {
-         a: "बढ़ता है",                  ///// Write the option 1 inside double quotes
-         b: "घटता है",                  ///// Write the option 2 inside double quotes
-         c: "अपरिवर्तित रहता है",                  ///// Write the option 3 inside double quotes
+         a: "Resistance × Conductivity",                  ///// Write the option 1 inside double quotes
+         b: "Conductivity × Distance between electrodes",                  ///// Write the option 2 inside double quotes
+         c: "Distance between electrodes / Area of cross-section",                  ///// Write the option 3 inside double quotes
          d: "इनमें से कोई नहीं"                   ///// Write the option 4 inside double quotes
        },
        correctAnswer: "c"                ///// Write the correct option inside double quotes
