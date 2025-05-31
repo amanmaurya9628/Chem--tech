@@ -34,6 +34,56 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+      {
+      "question": ". A high cell constant indicates:",
+      "answers": {
+        "a": "Electrodes are close and large",
+        "b": "Electrodes are far apart or small",
+        "c": "High voltage applied",
+        "d": "Low ionic mobility"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }  {
+      "question": "Which of the following factors affects conductance measurement?",
+      "answers": {
+        "a": " Temperature",
+        "b": "Concentration of ions",
+        "c": "Cell constant",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    } , 
+    {
+      "question": " During dilution of a strong electrolyte, the molar conductivity:",
+      "answers": {
+        "a": "Decreases",
+        "b": "Increases and then becomes constant",
+        "c": "Increases continuously",
+        "d": "Remains unchanged"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
     }
   ]
 }
