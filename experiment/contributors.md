@@ -3,9 +3,12 @@ EMPTY
 ### Subject Matter Experts
 | SNo. | Name | Email | Institute | ID |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | name | email | institute | id |
+| 1 |DR RAVISH SINGH RAJPUT |  | RAJKIYA ENGINEERING COLLEGE KANNAUG | id |
 
 ### Developers
 | SNo. | Name | Email | Institute | ID |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | name | email | institute | id |
+| 1 |SHASHANK SHARMA| shashankpbt@gmail.com | RAJKIYA ENGINEERING COLLEGE KANNAUG | id |
+| 1 |VAIBHAV SINGH|singhvs049@gmail.com| RAJKIYA ENGINEERING COLLEGE KANNAUG | id |
+| 1 |BHAVYA VISHWAKARMA| bhavyarock2005@gmail.com | RAJKIYA ENGINEERING COLLEGE KANNAUG | id |
+| 1 |AMAN KUMAR MAURYA| amanmauryamk9628@gmail.com | RAJKIYA ENGINEERING COLLEGE KANNAUG | id |
