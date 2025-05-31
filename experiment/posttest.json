@@ -22,9 +22,9 @@
       "question": " Which solution would be best for calibrating a conductivity cell?",
       "answers": {
         "a": "Tap water",
-        "b": " Catalyst",
-        "c": "Oxidizing agent",
-        "d": "Reducing agent"
+        "b": " 0.01 M KCl solution",
+        "c": "Distilled water",
+        "d": " HCl solutiont"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +32,7 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "B",
       "difficulty": "beginner"
     },
       {
