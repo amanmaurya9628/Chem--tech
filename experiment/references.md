@@ -1,6 +1,3 @@
-### Here’s how you can write a **theory/reference section** based on the content of your HTML page (for a **Cell Conductance Simulator**) in a formal or educational format. This could be included in your documentation, project report, or an educational resource:
-
----
 
 ## 🔬 **Theory – Cell Conductance (G = I / V)**
 
