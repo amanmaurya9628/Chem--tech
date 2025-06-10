@@ -46,4 +46,3 @@ This simulator is particularly useful for:
 
 ---
 
-Let me know if you’d like this formatted for a webpage, included as a modal in your HTML, or saved as a PDF.
