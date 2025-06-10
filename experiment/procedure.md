@@ -1,5 +1,5 @@
-### Procedure
-🧪 Experiment: Measurement of Cell Conductance of a Solution
+
+## Experiment: Measurement of Cell Conductance of a Solution
 Objective
 To measure the conductance of a given electrolyte solution using a conductivity cell and calculate its specific conductance.
 
@@ -84,7 +84,7 @@ S. No.	      Voltage (V)	      Current (I)	       Conductance (G = I/V)	Specific
 1				
 2				
 
-✅ Precautions
+## Precautions
 Use AC current to avoid polarization at the electrodes.
 
 Ensure clean electrodes for each measurement.
