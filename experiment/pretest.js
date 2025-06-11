@@ -90,7 +90,7 @@
 
   const myQuestions = [
     {
-      question: "1.Which of the following best defines conductance? ",  ///// Write the question inside double quotes
+      question: "Which of the following best defines conductance? ",  ///// Write the question inside double quotes
       answers: {
         a: "Resistance to the flow of current",                  ///// Write the option 1 inside double quotes
         b: "Ability of a substance to produce heat",                  ///// Write the option 2 inside double quotes
@@ -101,7 +101,7 @@
     },
 
     {
-     question: "2. The SI unit of conductance is:",  ///// Write the question inside double quotes
+     question: " The SI unit of conductance is:",  ///// Write the question inside double quotes
       answers: {
         a: "Ohm",                  ///// Write the option 1 inside double quotes
         b: " Volt",                  ///// Write the option 2 inside double quotes
@@ -111,7 +111,7 @@
       correctAnswer: "c"                ///// Write the correct option inside double quotes
     },     
     {
-      question: "3.Cell constant is defined as:",  ///// Write the question inside double quotes
+      question: "Cell constant is defined as:",  ///// Write the question inside double quotes
        answers: {
          a: "Resistance × Conductivity",                  ///// Write the option 1 inside double quotes
          b: "Conductivity × Distance between electrodes",                  ///// Write the option 2 inside double quotes
@@ -121,7 +121,7 @@
        correctAnswer: "c"                ///// Write the correct option inside double quotes
      }, 
      {
-      question: "4. Which instrument is commonly used to measure conductance",  ///// Write the question inside double quotes
+      question: " Which instrument is commonly used to measure conductance",  ///// Write the question inside double quotes
        answers: {
          a: "Ammeter",                  ///// Write the option 1 inside double quotes
          b: "Voltmete",                  ///// Write the option 2 inside double quotes
@@ -131,7 +131,7 @@
        correctAnswer: "c"
      },
          {
-      question: "5.  What is the relationship between resistance (R) and conductance (G)",  ///// Write the question inside double quotes
+      question: " What is the relationship between resistance (R) and conductance (G)",  ///// Write the question inside double quotes
        answers: {
          a: "G = R",                  ///// Write the option 1 inside double quotes
          b: "G = 1/R",                  ///// Write the option 2 inside double quotes
