@@ -130,7 +130,7 @@
        },
        correctAnswer: "c"    
          {
-      question: "4.  What is the relationship between resistance (R) and conductance (G)",  ///// Write the question inside double quotes
+      question: "5.  What is the relationship between resistance (R) and conductance (G)",  ///// Write the question inside double quotes
        answers: {
          a: "G = R",                  ///// Write the option 1 inside double quotes
          b: "G = 1/R",                  ///// Write the option 2 inside double quotes
@@ -138,7 +138,7 @@
          d: "G = R × V"                   ///// Write the option 4 inside double quotes
        },
        correctAnswer: "b"    ///// Write the correct option inside double quotes
-     },                              ///// To add more questions, copy the section below 
+     }                             ///// To add more questions, copy the section below 
     									                  ///// this line
 
 
