@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
      {
-      "question": ":Cell constant is defined as:",
+      "question": "Cell constant is defined as:",
       "answers": {
         "a": "Resistance × Conductivity",
         "b": "Conductivity × Distance between electrodes",
