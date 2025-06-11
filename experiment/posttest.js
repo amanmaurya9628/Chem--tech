@@ -108,7 +108,8 @@
         c: "Distilled water",                  ///// Write the option 3 inside double quotes
         d: "HCl solution"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"  
+      correctAnswer: "b"
+    },
        {
       question: " A high cell constant indicates:",  ///// Write the question inside double quotes
       answers: {
@@ -117,7 +118,8 @@
         c: "High voltage applied",                  ///// Write the option 3 inside double quotes
         d: "Low ionic mobility"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"  
+      correctAnswer: "b"
+       },
      {
       question: " Which of the following factors affects conductance measurement?",  ///// Write the question inside double quotes
       answers: {
@@ -126,7 +128,8 @@
         c: "Cell constant",                  ///// Write the option 3 inside double quotes
         d: "All of the above"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "d"  
+      correctAnswer: "d"
+     },
         {
       question: " During dilution of a strong electrolyte, the molar conductivity:",  ///// Write the question inside double quotes
       answers: {
@@ -136,7 +139,7 @@
         d: "Remains unchanged"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "c"  ///// Write the correct option inside double quotes
-    },                                  ///// To add more questions, copy the section below 
+    }                                  ///// To add more questions, copy the section below 
     									                  ///// this line
 
 
