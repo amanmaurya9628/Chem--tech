@@ -128,7 +128,8 @@
          c: "Conductometer",                  ///// Write the option 3 inside double quotes
          d: "Potentiometer"                   ///// Write the option 4 inside double quotes
        },
-       correctAnswer: "c"    
+       correctAnswer: "c"
+     },
          {
       question: "5.  What is the relationship between resistance (R) and conductance (G)",  ///// Write the question inside double quotes
        answers: {
