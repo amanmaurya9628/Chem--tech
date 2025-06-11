@@ -34,7 +34,7 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
      {
       "question": ":Cell constant is defined as:",
       "answers": {
@@ -52,7 +52,7 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
      {
       "question": "Which instrument is commonly used to measure conductance?:",
       "answers": {
@@ -69,7 +69,7 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
      {
       "question": " What is the relationship between resistance (R) and conductance (G)?:",
       "answers": {
