@@ -106,7 +106,7 @@
         a: "Tap water",                  ///// Write the option 1 inside double quotes
         b: "0.01 M KCl solution",                  ///// Write the option 2 inside double quotes
         c: "Distilled water",                  ///// Write the option 3 inside double quotes
-        d: "HCl solutiont"                   ///// Write the option 4 inside double quotes
+        d: "HCl solution"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"  
        {
@@ -131,8 +131,8 @@
       question: " During dilution of a strong electrolyte, the molar conductivity:",  ///// Write the question inside double quotes
       answers: {
         a: "Decreases",                  ///// Write the option 1 inside double quotes
-        b: "ncreases and then becomes constant",                  ///// Write the option 2 inside double quotes
-        c: "ncreases continuously",                  ///// Write the option 3 inside double quotes
+        b: "increases and then becomes constant",                  ///// Write the option 2 inside double quotes
+        c: "increases continuously",                  ///// Write the option 3 inside double quotes
         d: "Remains unchanged"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "c"  ///// Write the correct option inside double quotes
