@@ -1,4 +1,4 @@
-Theory in Current and Voltage Form
+ Current and Voltage Form
 Cell conductance of a solution can be directly related to Ohm’s Law, which states:
 
 I.R=V=R.I
